@@ -40,6 +40,10 @@ body{
     margin: 8px;
     border-radius: 20px;
 }
+#click{
+    background-color: red;
+    color: white;
+}
 
 .controlers{
     width: 252px;
